@@ -31,3 +31,5 @@
 *R/El puntaje se mide con respecto al tiempo que le toma al jugador terminar la serie de bloques.*
 
 **Trello:**
+
+- (https://trello.com/b/eQEmSRG6/proyectofinalarkanoid)
