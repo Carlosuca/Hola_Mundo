@@ -4,7 +4,8 @@
 - Mario Ernesto Mayen Castro 00220618
 - Carlos Misael Pérez Pérez 00202118
 
-**IDE:** 
+**IDE:**
+
 -JetBrains Rider 2019.3.4 
 
 **FAQ’s:**
